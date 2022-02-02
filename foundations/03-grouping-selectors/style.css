@@ -1,0 +1,17 @@
+/* style.css */
+
+.button1{
+    background-color: #000000;
+    color: #FFFFFF;
+    border-style: outset;
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 1px;
+
+
+}
+
+.button2{
+    background-color: hsl(56, 100%, 55%);
+    font-family: 'Times New Roman', Times, serif;
+
+}
